@@ -99,5 +99,5 @@ http://192.168.2.5:8888/rtp/225.1.4.207:1260
 http://192.168.2.5:8888/rtp/225.1.4.209:1262
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="其他频道",CHC动作电影
 http://192.168.2.5:8888/rtp/225.1.4.208:1261
-#EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="其他频道",爱上4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.loli.net/2019/12/29/XhAaZzVgo42ESfc.png" group-title="其他频道",爱上4K
 http://192.168.2.5:8888/rtp/225.1.4.162:1204
