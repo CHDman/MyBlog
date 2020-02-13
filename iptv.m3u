@@ -11,7 +11,7 @@ http://192.168.2.5:8888/rtp/225.1.4.4:1033
 http://192.168.2.5:8888/rtp/225.1.4.159:1195
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5+体育
 http://192.168.2.5:8888/rtp/225.1.4.75:1104
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6高清
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6电影
 http://192.168.2.5:8888/rtp/225.1.4.160:1196
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV-7军事
 http://192.168.2.5:8888/rtp/225.1.4.76:1105
@@ -101,3 +101,29 @@ http://192.168.2.5:8888/rtp/225.1.4.209:1262
 http://192.168.2.5:8888/rtp/225.1.4.208:1261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CHDman/MyBlog/master/LOVE4K.png" group-title="其他频道",爱上4K
 http://192.168.2.5:8888/rtp/225.1.4.162:1204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂小一
+http://192.168.2.5:8888/rtp/225.1.4.236:1282
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂小一
+http://192.168.2.5:8888/rtp/225.1.4.236:1282
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂小二
+http://192.168.2.5:8888/rtp/225.1.4.237:1283
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂小三
+http://192.168.2.5:8888/rtp/225.1.4.238:1284
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂小四
+http://192.168.2.5:8888/rtp/225.1.4.239:1285
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂小五
+http://192.168.2.5:8888/rtp/225.1.4.238:1286
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂小六
+http://192.168.2.5:8888/rtp/225.1.4.238:1287
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂初一
+http://192.168.2.5:8888/rtp/225.1.4.238:1288
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂初二
+http://192.168.2.5:8888/rtp/225.1.4.238:1289
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂初三
+http://192.168.2.5:8888/rtp/225.1.4.238:1290
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂高一
+http://192.168.2.5:8888/rtp/225.1.4.238:1291
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂高二
+http://192.168.2.5:8888/rtp/225.1.4.238:1292
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="名校课堂",名校课堂高三
+http://192.168.2.5:8888/rtp/225.1.4.238:1293
