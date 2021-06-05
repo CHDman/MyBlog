@@ -95,7 +95,7 @@ http://192.168.2.1:8888/rtp/225.1.4.228:1274
 http://192.168.2.1:8888/rtp/225.1.4.41:1070
 #EXTINF:-1 tvg-id="49" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视
 http://192.168.2.1:8888/rtp/225.1.4.42:1071
-#EXTINF:-1 tvg-id="49" tvg-name="海南卫视" tvg-logo="" group-title="卫视频道",海南卫视
+#EXTINF:-1 tvg-id="49" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视
 http://192.168.2.1:8888/rtp/225.1.4.195:1310
 #EXTINF:-1 tvg-id="50" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="其他频道",CHC高清电影
 http://192.168.2.1:8888/rtp/225.1.4.207:1260
@@ -111,13 +111,13 @@ http://192.168.2.1:8888/rtp/225.1.4.206:1254
 http://192.168.2.1:8888/rtp/225.1.4.163:1203
 #EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="" group-title="其他频道",CETV1
 http://192.168.2.1:8888/rtp/225.1.4.173:1712
-#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="" group-title="其他频道",金鹰纪实
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="其他频道",金鹰纪实
 http://192.168.2.1:8888/rtp/225.1.4.172:1711
-#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="" group-title="其他频道",上海纪实
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="其他频道",上海纪实
 http://192.168.2.1:8888/rtp/225.1.4.170:1222
 #EXTINF:-1 tvg-id="" tvg-name="熊猫频道" tvg-logo="" group-title="其他频道",熊猫频道
 http://192.168.2.1:8888/rtp/225.1.4.169:1221
-#EXTINF:-1 tvg-id="" tvg-name="IPTV5+" tvg-logo="" group-title="其他频道",IPTV5+
+#EXTINF:-1 tvg-id="" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="其他频道",IPTV5+
 http://192.168.2.1:8888/rtp/225.1.4.168:1220
 #EXTINF:-1 tvg-id="" tvg-name="河南都市" tvg-logo="" group-title="其他频道",河南都市
 http://192.168.2.1:8888/rtp/225.1.4.52:1081
