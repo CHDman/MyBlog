@@ -6,7 +6,11 @@ http://192.168.2.1:8888/rtp/225.1.4.74:1103
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV-3综艺
 http://192.168.2.1:8888/rtp/225.1.4.158:1194
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4国际
-http://192.168.2.1:8888/rtp/225.1.4.4:1033
+http://192.168.2.1:8888/rtp/225.1.5.30:1333
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4国际欧洲
+http://192.168.2.1:8888/rtp/225.1.5.31:1342
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4国际美洲
+http://192.168.2.1:8888/rtp/225.1.5.32:1343
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5体育
 http://192.168.2.1:8888/rtp/225.1.4.159:1195
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5+体育
@@ -111,6 +115,20 @@ http://192.168.2.1:8888/rtp/225.1.4.206:1254
 http://192.168.2.1:8888/rtp/225.1.4.163:1203
 #EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="" group-title="其他频道",CETV1
 http://192.168.2.1:8888/rtp/225.1.4.173:1712
+#EXTINF:-1 tvg-id="" tvg-name="CGTN英语" tvg-logo="" group-title="其他频道",CGTN英语
+http://192.168.2.1:8888/rtp/225.1.5.34:1344
+#EXTINF:-1 tvg-id="" tvg-name="CGTN西班牙语" tvg-logo="" group-title="其他频道",CGTN西班牙语
+http://192.168.2.1:8888/rtp/225.1.5.36:1346
+#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="" group-title="其他频道",CGTN法语
+http://192.168.2.1:8888/rtp/225.1.5.37:1347
+#EXTINF:-1 tvg-id="" tvg-name="CGTN阿拉伯语" tvg-logo="" group-title="其他频道",CGTN阿拉伯语
+http://192.168.2.1:8888/rtp/225.1.5.38:1348
+#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="" group-title="其他频道",CGTN俄语
+http://192.168.2.1:8888/rtp/225.1.5.38:1349
+#EXTINF:-1 tvg-id="" tvg-name="CGTN英文记录" tvg-logo="" group-title="其他频道",CGTN英文记录
+http://192.168.2.1:8888/rtp/225.1.5.35:1345
+#EXTINF:-1 tvg-id="" tvg-name="国学频道" tvg-logo="" group-title="其他频道",国学频道
+http://192.168.2.1:8888/rtp/225.1.4.196:1311
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="其他频道",金鹰纪实
 http://192.168.2.1:8888/rtp/225.1.4.172:1711
 #EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="其他频道",上海纪实
